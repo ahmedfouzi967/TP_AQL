@@ -1,4 +1,4 @@
-﻿.idea/
+.idea/
 *.iml
 # Maven build output
 TP1_solution/target/
