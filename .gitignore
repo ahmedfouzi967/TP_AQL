@@ -1,0 +1,9 @@
+﻿.idea/
+*.iml
+# Maven build output
+TP1_solution/target/
+target/
+*.class
+# OS files
+.DS_Store
+Thumbs.db
