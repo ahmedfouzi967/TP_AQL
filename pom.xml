@@ -35,6 +35,8 @@
     </dependencies>
 
     <build>
+        <sourceDirectory>TP2_solution/main/java</sourceDirectory>
+        <testSourceDirectory>TP2_solution/test/java</testSourceDirectory>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
